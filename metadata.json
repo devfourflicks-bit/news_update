@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Ledger",
+  "description": "High-velocity global news and real-time financial intelligence platform featuring editorial stories, live breaking updates, market indices, timeline tracking, and AI article synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
